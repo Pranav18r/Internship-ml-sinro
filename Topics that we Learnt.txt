@@ -1,0 +1,2 @@
+regulatisation
+overfitting underfitting

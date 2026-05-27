@@ -1,0 +1,12 @@
+generate me a csv file , that can be used to learn basic concepts of machine learning , like matplotlib (plotting) , data cleaning , data standardisation , data balancing , 
+
+after that i wanna compare different types of regression models on the same dataset after i performed cleaning on it 
+
+please include 
+
+cells that contain missing values
+cells contain junk like '-' , '?',etc
+cells that contain values that are absolutely massive and absolutley minimum , so that the user knows its junk by the immense range of the values
+
+i wanna perform all types of regression
+l1,l2,linear, polynomial,svr,multi linear and so on , so make the dataset capable enough to have columns apt for all this
